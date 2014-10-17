@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ngk:home|Door43 (ngk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ngk|d43-ngk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ngk/archive/master.zip|d43-ngk.zip]]
+
+**Recent Changes**
+{{changes>ns = ngk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ngk|Ethnologue data]]
+
